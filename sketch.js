@@ -134,7 +134,7 @@ function setup() {
   );
   timelineAnnotations.set(
     1927,
-    "For 1927, not all the prize winners are known, but it is known that San Ildefonso pottery outsold everything else. Traders were allowed to make sells during this fair."
+    "Not all prize winners are known for this year, but it is known that San Ildefonso pottery outsold everything else. Traders were allowed to make sells during this fair."
   );
   timelineAnnotations.set(
     1928,
